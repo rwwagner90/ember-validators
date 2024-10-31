@@ -1,0 +1,25 @@
+{
+  "solution": {
+    "ember-validators": {
+      "impact": "patch",
+      "oldVersion": "4.1.2",
+      "newVersion": "4.1.3",
+      "constraints": [
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :bug: Bug Fix"
+        },
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :memo: Documentation"
+        },
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
+        }
+      ],
+      "pkgJSONPath": "./package.json"
+    }
+  },
+  "description": "## Release (2024-10-31)\n\nember-validators 4.1.3 (patch)\n\n#### :bug: Bug Fix\n* `ember-validators`\n  * [#138](https://github.com/adopted-ember-addons/ember-validators/pull/138) Fix date time format ([@mkszepp](https://github.com/mkszepp))\n\n#### :memo: Documentation\n* `ember-validators`\n  * [#147](https://github.com/adopted-ember-addons/ember-validators/pull/147) Update repository url after migration ([@SergeAstapov](https://github.com/SergeAstapov))\n  * [#144](https://github.com/adopted-ember-addons/ember-validators/pull/144) chore: Update URL for documentation ([@TSenter](https://github.com/TSenter))\n\n#### :house: Internal\n* `ember-validators`\n  * [#148](https://github.com/adopted-ember-addons/ember-validators/pull/148) Setup release-plan and changelog ([@SergeAstapov](https://github.com/SergeAstapov))\n\n#### Committers: 3\n- Markus Sanin ([@mkszepp](https://github.com/mkszepp))\n- Sergey Astapov ([@SergeAstapov](https://github.com/SergeAstapov))\n- Tyler Senter ([@TSenter](https://github.com/TSenter))\n"
+}
