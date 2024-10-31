@@ -1,5 +1,27 @@
 # Changelog
 
+## Release (2024-10-31)
+
+ember-validators 4.1.3 (patch)
+
+#### :bug: Bug Fix
+* `ember-validators`
+  * [#138](https://github.com/adopted-ember-addons/ember-validators/pull/138) Fix date time format ([@mkszepp](https://github.com/mkszepp))
+
+#### :memo: Documentation
+* `ember-validators`
+  * [#147](https://github.com/adopted-ember-addons/ember-validators/pull/147) Update repository url after migration ([@SergeAstapov](https://github.com/SergeAstapov))
+  * [#144](https://github.com/adopted-ember-addons/ember-validators/pull/144) chore: Update URL for documentation ([@TSenter](https://github.com/TSenter))
+
+#### :house: Internal
+* `ember-validators`
+  * [#148](https://github.com/adopted-ember-addons/ember-validators/pull/148) Setup release-plan and changelog ([@SergeAstapov](https://github.com/SergeAstapov))
+
+#### Committers: 3
+- Markus Sanin ([@mkszepp](https://github.com/mkszepp))
+- Sergey Astapov ([@SergeAstapov](https://github.com/SergeAstapov))
+- Tyler Senter ([@TSenter](https://github.com/TSenter))
+
 ## v4.1.2 (2022-02-08)
 
 #### :rocket: Enhancement
